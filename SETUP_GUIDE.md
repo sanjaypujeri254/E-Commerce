@@ -14,8 +14,8 @@ Before starting, ensure you have:
 
 **Option A: Using Git**
 \`\`\`bash
-git clone https://github.com/yourusername/vibe-commerce.git
-cd vibe-commerce
+git clone https://github.com/sanjaypujeri254/E-Commerce.git
+cd E-Commerce
 \`\`\`
 
 **Option B: Download ZIP**
